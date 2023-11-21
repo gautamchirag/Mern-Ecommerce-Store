@@ -48,7 +48,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Thanks to [Bootstrap](https://getbootstrap.com/) for providing a great frontend framework.
+- 
 - Special thanks to the cricket community for inspiration and support.
 
 Feel free to reach out if you have any questions or issues!
