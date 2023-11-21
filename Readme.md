@@ -9,7 +9,7 @@ This is a full-stack e-commerce application for cricket enthusiasts, built using
 - React.js: Frontend library for building user interfaces.
 - Node.js: Backend runtime environment.
 - Redux: State management for the frontend.
-- Bootstrap: Frontend styling and layout.
+- Material Ui: Frontend styling and layout.
 
 ## Features
 - User Authentication: Secure user registration and login functionality.
